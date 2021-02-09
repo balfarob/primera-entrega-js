@@ -1,0 +1,52 @@
+body{
+  background-image:url("../images/fondo.jpg");
+}
+.navbar2{
+ background-color:#A451F3!important;
+}
+/*
+Este es el color del 1er navbar
+  #EBCEFF
+*/
+.nav-pills{
+  background-color:#EBCEFF!important;
+}
+.navbar-light{
+  background-color: #EBCEFF;
+}
+/*
+El footer
+*/
+footer{
+  background-color: #A451F3;
+}
+/*
+las catetgorias en la sección shop
+*/
+.header .row{
+  margin-top:70px;
+}
+.categories{
+  margin:70 px 0;
+}
+.col-3{
+  flex:30%;
+  min-width:250px;
+  margin-bottom:30px;
+}
+.col-3 img{
+  width:100%;
+}
+.small-container{
+  max-width: 1080px;
+  margin:auto;
+  padding-left:25px;
+  padding-right:25px;
+}
+/*
+Prueba videos
+*/
+video{
+  width:100%;
+  max-width:600px;
+  }
